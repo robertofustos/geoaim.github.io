@@ -97,6 +97,8 @@
       window.location.href = 'http://152.74.222.160:1144/'; 
     }else if (Username === 'Mandiola.Rafael' && Password === 'minas1'){
       window.location.href = 'http://152.74.222.160:1145/'; 
+    }else if (Username === 'fernando.galvez' && Password === 'fernando'){
+      window.location.href = 'http://152.74.222.160:1146/'; 
     } else {
       alert('Credenciales incorrectas. Por favor, intentalo de nuevo.');
     }
