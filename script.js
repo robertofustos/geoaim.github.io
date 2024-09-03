@@ -5,7 +5,7 @@
     // Aquí puedes realizar la lógica de autenticación, como enviar una solicitud a un servidor o verificar las credenciales localmente.
     // En este ejemplo, simplemente comprobamos que el usuario sea "admin" y la contraseña sea "password".
   
-    if (Username === 'Fustos.Roberto' && Password === 'familia4') {
+    if (Username === 'roberto.fustos' && Password === 'familia4') {
       window.location.href = 'http://152.74.222.160:1150/';
     }else if (Username === 'Barrales.Francisca' && Password === 'minas1'){
       window.location.href = 'http://152.74.222.160:1101/'; 
